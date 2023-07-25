@@ -1,2 +1,3 @@
+add_lunch_combo omni_a52xq-user
 add_lunch_combo omni_a52xq-userdebug
 add_lunch_combo omni_a52xq-eng
